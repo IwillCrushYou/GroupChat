@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore single file
+tast.txt
+
 # Distribution / packaging
 .Python
 build/
