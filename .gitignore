@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Ignore single file
-tast.txt
+task.txt
 
 # Distribution / packaging
 .Python
